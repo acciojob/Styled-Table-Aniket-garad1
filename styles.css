@@ -1,1 +1,12 @@
 /* your code */
+table  {
+	border-collapse:collapse;
+border:2px solid black;	
+
+}
+tr:nth-child(even){
+	background-color:gray;
+}
+thead{
+	background-color:cyan;
+}
